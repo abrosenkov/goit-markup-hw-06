@@ -167,7 +167,7 @@ ul, ol {
   max-width: 1440px;
   margin: 0 auto;
   background-repeat: no-repeat;
-  background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url("../images/main-bg.jpg");
+  background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url("../images/hero-bg-desck.jpg");
   background-position: center;
   background-size: cover;
 }
